@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Checkmate",
+  "base_artist": "VOLTACTION",
+  "createdAt": "2025-12-07T07:21:45.524514Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "체크메이트 (Checkmate)",
+      "artist": "소녀시대-태티서",
+      "has_synced": true,
+      "path": "select/01_체크메이트_(Checkmate)_소녀시대-태티서.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "체크메이트 (Checkmate)",
+      "artist": "Girls' Generation-TTS",
+      "has_synced": true,
+      "path": "select/02_체크메이트_(Checkmate)_Girls'_Generation-TTS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Checkmate",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/03_Checkmate_Cypress_Hill.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "EP NO BRANDS Checkmate",
+      "artist": "Emiway Bantai",
+      "has_synced": true,
+      "path": "select/04_EP_NO_BRANDS_Checkmate_Emiway_Bantai.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "EP - NO BRANDS - Checkmate",
+      "artist": "Emiway Bantai",
+      "has_synced": true,
+      "path": "select/05_EP_-_NO_BRANDS_-_Checkmate_Emiway_Bantai.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Checkmate",
+      "artist": "Eliza Doolittle",
+      "has_synced": true,
+      "path": "select/06_Checkmate_Eliza_Doolittle.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Checkmate!?",
+      "artist": "MICHI",
+      "has_synced": true,
+      "path": "select/07_Checkmate!_MICHI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Checkmate (Hang'em High Remix)",
+      "artist": "Cypress Hill",
+      "has_synced": false,
+      "path": "select/08_Checkmate_(Hang'em_High_Remix)_Cypress_Hill.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Checkmate",
+      "artist": "Lamb of God",
+      "has_synced": true,
+      "path": "select/09_Checkmate_Lamb_of_God.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shah Mot (The Shah Is Dead / Checkmate)",
+      "artist": "Gil Scott-Heron feat. Brian Jackson",
+      "has_synced": false,
+      "path": "select/10_Shah_Mot_(The_Shah_Is_Dead___Checkmate)_Gil_Scott-Heron_feat._Brian_Jackson.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shah Mot (The Shah Is Dead \u0000 Checkmate)",
+      "artist": "Gil Scott-Heron & Brian Jackson",
+      "has_synced": false,
+      "path": "select/11_Shah_Mot_(The_Shah_Is_Dead_\u0000_Checkmate)_Gil_Scott-Heron_&_Brian_Jackson.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Checkmate",
+      "artist": "Conan Gray",
+      "has_synced": true,
+      "path": "select/12_Checkmate_Conan_Gray.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Checkmate",
+      "artist": "bbno$ feat. So Loki",
+      "has_synced": true,
+      "path": "select/13_Checkmate_bbno$_feat._So_Loki.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "checkmate",
+      "artist": "Bbno$ ft. So Loki",
+      "has_synced": true,
+      "path": "select/14_checkmate_Bbno$_ft._So_Loki.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Checkmate",
+      "artist": "Smash Into Pieces",
+      "has_synced": true,
+      "path": "select/15_Checkmate_Smash_Into_Pieces.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Checkmate",
+      "artist": "VOLTACTION",
+      "has_synced": false,
+      "path": "select/pl_01_Checkmate_VOLTACTION.txt"
+    }
+  ]
+}
